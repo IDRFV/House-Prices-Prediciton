@@ -11,3 +11,6 @@ The goal was to predict house prices based on various features using machine lea
 - **Cross-Validation**: Implemented K-Fold cross-validation for robust model evaluation.
 - **Performance Metrics**: Evaluated model performance using RMSE and MAPE.
 
+## Files
+- `house_prices_prediction.ipynb`: The main notebook containing data processing, model training, and evaluation.
+- `submission.csv`: The final submission file for the competition.
